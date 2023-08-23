@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wm6PgeSLNRe8OqOwRFFbIQSAupSBFx0fJ98kUuoSXBU=",
+  "Source": "RiaMoneyTransferAPI",
+  "BasePath": "_content/RiaMoneyTransferAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
